@@ -1,0 +1,10 @@
+{
+  "name": "scc-line-notifications",
+  "version": "1.0.0",
+  "description": "Security Command Center finding pubsub to LINE Chat notifications with PubSub and Cloud Function",
+  "main": "scc-line.js",
+  "scripts": {
+  },
+  "author": "Nuttee J.",
+  "license": "ISC"
+}
